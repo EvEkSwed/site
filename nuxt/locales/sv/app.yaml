@@ -1,294 +1,293 @@
-100PercentCommunity: 100% community TODO
-100PercentFree: 100% free TODO
-100PercentOpenSource: 100% open source TODO
-aCodeBlock: A code block TODO
-aboutFreesewing: About Freesewing TODO
-add: Add TODO
-addAModel: Add a model TODO
-addComment: Add comment TODO
-all: All TODO
-alreadyHaveAnAccount: Already have an account? TODO
-areYouSureAboutThis: Are you 100% sure about this? TODO
+100PercentCommunity: 100 % gemenskap TODO
+gratis100PercentOpenSource: 100 % öppen kod TODO
+aCodeBlock: Ett kodblock TODO
+aboutFreesewing: Om Freesewing TODO
+add: Lägg till TODO
+addAModel: Lägg till en modell TODO
+addComment: Lägg till en kommentar TODO
+all: Alla TODO
+alreadyHaveAnAccount: Har du redan ett konto? TODO
+areYouSureAboutThis: Är du 100 % säker på det här? TODO
 avatar: Avatar TODO
-avatarUpdated: Avatar updated TODO
-averagePeopleDontExist: Average people don't exist TODO
-basicTheme: Classic theme TODO
-basics: Basics TODO
-becomeAPatron: Become a patron TODO
+avatarUpdated: Avatar uppdaterad TODO
+averagePeopleDontExist: Genomsnittliga människor existerar inte TODO
+basicTheme: Grundläggande tema TODO
+basics: Grundläggande TODO
+becomeAPatron: Bli stödmedlem TODO
 bio: Bio TODO
-bioUpdated: Bio updated TODO
+bioUpdated: Bio uppdaterad TODO
 blockquote: Block quote TODO
-blog: Blog TODO
-blogPost: Blog posts TODO
-bold: Bold TODO
-breasts: Breasts TODO
-breastsUpdated: Breasts setting updated TODO
-by: by TODO
-cancel: Cancel TODO
-chatOnGitter: Chat on Gitter TODO
-chatWithUs: Chat with us TODO
-chooseAModel: Choose a model TODO
-chooseANewPassword: Choose a new password TODO
-chooseAPattern: Choose a pattern TODO
-chooseYourOptions: Choose your options TODO
-close: Close TODO
-code: Code TODO
-comments: Comments TODO
-community: Community TODO
-compare: Compare TODO
-completePattern: Complete pattern TODO
-connectingToSomeApi: 'Connecting to {api} API TODO'
-consent: Consent TODO
-consentForModelData: Consent for model data TODO
-consentForProfileData: Consent for profile data TODO
-consentGiven: Consent given TODO
-contactUs: Contact us TODO
-content: Content TODO
-contents: Contents TODO
-coordinator: Coordinator TODO
+blog: Blogg TODO
+blogPost: Blogginlägg TODO
+bold: Fetstil TODO
+breasts: Bröst TODO
+breastsUpdated: Inställning för bröst uppdaterad TODO
+by: av TODO
+cancel: Avbryt TODO
+chatOnGitter: Chatta på Gitter TODO
+chatWithUs: Chatta med oss TODO
+chooseAModel: Välj en modell TODO
+chooseANewPassword: Välj ett nytt lösenord TODO
+chooseAPattern: Välj ett mönster TODO
+chooseYourOptions: Välj dina alternativ TODO
+close: Stäng TODO
+code: Kod TODO
+comments: Kommentarer TODO
+community: Gemenskap TODO
+compare: Jämför TODO
+completePattern: Komplett mönster TODO
+connectingToSomeApi: 'Ansluter till {api} API TODO'
+consent: Samtycke TODO
+consentForModelData: Samtycke för modell-uppgifter TODO
+consentForProfileData: Samtycke för profiluppgifter TODO
+consentGiven: Samtycke ges TODO
+contactUs: Kontakta oss TODO
+content: Innehåll TODO
+contents: Innehåll TODO
+coordinator: Samordnare TODO
 coreLink: Core link TODO
-countAvailable: '{count} available TODO'
-countTranslated: '{count} translated TODO'
-createAnAccount: Create an account TODO
-createIssueOnGithub: Create issue on GitHub TODO
-createModel: Create model TODO
-createMyAccount: Create my account TODO
-created: Created TODO
-currentPassword: Current password TODO
+countAvailable: '{count} tillgänglig TODO'
+countTranslated: '{count} översatt TODO'
+createAnAccount: Skapa ett konto TODO
+createIssueOnGithub: Skapa ett inlägg på GitHub TODO
+createModel: Skapa modell TODO
+createMyAccount: Skapa mitt konto TODO
+created: Skapat TODO
+currentPassword: Nuvarande lösenord TODO
 data: Data TODO
-date: Date TODO
-daysAgo: '{days} days ago TODO'
-delete: Delete TODO
-deleteThisDraft: Delete this draft TODO
-description: Description TODO
-details: Details TODO
-difficulty: Difficulty TODO
-docs: Documentation TODO
-documentation: Documentation TODO
-documentationForDevelopers: Documentation for developers TODO
-documentationForTranslators: Documentation for translators TODO
-documentationOverview: Documentation overview TODO
-download: Download TODO
-draft: Draft TODO
-draftAPattern: Draft a pattern TODO
-draftOptions: Draft options TODO
-draftPattern: 'Draft {pattern} TODO'
-draftPatternForModel: 'Draft {pattern} for {model} TODO'
-draftThePattern: Draft the pattern TODO
-draftingPattern: 'Drafting {pattern} TODO'
-drafts: Drafts TODO
-edit: Edit TODO
-editOnGithub: Edit on GitHub TODO
-email: E-mail TODO
-emailAddress: E-mail address TODO
-emailUpdatePending: E-mail update pending. TODO
-emails: E-mails TODO
-enterYourCurrentPassword: Enter your current password TODO
-enterYourNewPassword: Enter your new password TODO
-error-unknown: An unknown error occured TODO
-error-username_taken: Username taken TODO
-exportMyData: Export my data TODO
-filterByPattern: Filter by pattern TODO
-forContributors: For contributors TODO
-forMoreInfoRtfm: 'For more info, read the documentation: TODO'
-forUsername: 'For {username} TODO'
-forUsers: For users TODO
+date: Datum TODO
+daysAgo: '{days} dagar sedan TODO'
+delete: Radera TODO
+deleteThisDraft: Radera den här skissen TODO
+description: Beskrivning TODO
+details: Detaljer TODO
+difficulty: Svårighet TODO
+docs: Dokument TODO
+documentation: Dokumentation TODO
+documentationForDevelopers: Dokumentation för utvecklare TODO
+documentationForTranslators: Dokumentation för översättare TODO
+documentationOverview: Dokumentationsöversikt TODO
+download: Ladda ner TODO
+draft: Skiss TODO
+draftAPattern: Rita ett mönster TODO
+draftOptions: Rita alternativ TODO
+draftPattern: 'Rita {pattern} TODO'
+draftPatternForModel: 'Rita {pattern} för {model} TODO'
+draftThePattern: Rita mönstret TODO
+draftingPattern: 'Ritar {pattern} TODO'
+drafts: Skisser TODO
+edit: Redigera TODO
+editOnGithub: Redigera på GitHub TODO
+email: E-posta TODO
+emailAddress: E-postadress TODO
+emailUpdatePending: E-postuppdatering väntar. TODO
+emails: E-postmeddelanden TODO
+enterYourCurrentPassword: Ange ditt nuvarande lösenord TODO
+enterYourNewPassword: Ange ditt nya lösenord TODO
+error-unknown: Ett okänt fel inträffade TODO
+error-username_taken: Användarnamn upptaget TODO
+exportMyData: Exportera mina uppgifter TODO
+filterByPattern: Filtrera efter mönster TODO
+forContributors: För medverkande TODO
+forMoreInfoRtfm: 'För mer information, läs dokumentationen: TODO'
+forUsername: 'För {username} TODO'
+forUsers: För användare TODO
 fork: Fork TODO
 forkDraftHandle: 'Fork draft {handle} TODO'
 freesewing: Freesewing TODO
-freesewingContributors: Freesewing contributors TODO
-freesewingOnGithub: Freesewing on GitHub TODO
-freesewingPatrons: Freesewing patrons TODO
-freezeMyAccount: Freeze my account TODO
-fullSizePdf: Full size PDF TODO
-fundamentals: Fundamentals TODO
-getHelp: Get help TODO
+freesewingContributors: Medverkande till Freesewing TODO
+freesewingOnGithub: Freesewing på GitHub TODO
+freesewingPatrons: Freesewing-stödmedlemmar TODO
+freezeMyAccount: Frys mitt konto TODO
+fullSizePdf: PDF i full storlek TODO
+fundamentals: Grundläggande TODO
+getHelp: Få hjälp TODO
 github: GitHub TODO
-githubUpdated: GitHub username updated TODO
-goodToKnow: Good to know TODO
-hi: Hi TODO
-home: Home TODO
-howCanWeHelpYou: How can we help you? TODO
-howToTakeMeasurements: How to take measurements TODO
-i18n: Internationalization (i18n) TODO
-iForgotMyPassword: I forgot my password TODO
-iForgotMyUsername: I forgot my username TODO
-image: Image TODO
-imperial: Imperial TODO
-imperialUnits: Imperial units (inch) TODO
-in: in TODO
+githubUpdated: GitHub användarnamn uppdaterat TODO
+goodToKnow: Bra att veta TODO
+hi: Hej TODO
+home: Hem TODO
+howCanWeHelpYou: Hur kan vi hjälpa dig? TODO
+howToTakeMeasurements: Hur du tar mått TODO
+i18n: Internationalisering (i18n) TODO
+iForgotMyPassword: Jag har glömt mitt lösenord TODO
+iForgotMyUsername: Jag har glömt mitt användarnamn TODO
+image: Bild TODO
+imperial: Imperialmått TODO
+imperialUnits: Imperialmått (inch) TODO
+in: i TODO
 inch: inch TODO
-info: Info TODO
+info: Information TODO
 instagram: Instagram TODO
-instagramUpdated: Instagram account set TODO
-italics: Italics TODO
-joinTheTranslationTeam: 'Even if you have never contributed to an open source project, translation is a smooth on-ramp towards contributor fame. TODO'
-justAMoment: Just a moment TODO
-key: Key TODO
-language: Language TODO
-languageLanguageFiles: '{language} language files TODO'
+instagramUpdated: Instagramkonto uppdaterat TODO
+italics: Kursivt TODO
+joinTheTranslationTeam: 'Även om du aldrig har bidragit till ett open source-projekt, är översättning en smidig ingång till medverkarberömmelse. TODO'
+justAMoment: Bara ett ögonblick TODO
+key: Nyckel TODO
+language: Språk TODO
+languageLanguageFiles: '{language} språkfiler TODO'
 layout: Layout TODO
-learnMore: Learn more TODO
-learnToDesignPatterns: Learn to design patterns TODO
-letterPdf: Letter PDF TODO
-loadingModelData: Loading model data TODO
-loadingResult: Loading result TODO
-locale: Language TODO
-localeUpdated: Language preference updated TODO
-logIn: Log in TODO
-logInAs: Log in as TODO
-logOut: Log out TODO
-logOutAs: 'Log out as {user} TODO'
-loginFailed: Login failed TODO
-makeItBetter: Make it better TODO
+learnMore: Lär dig mer TODO
+learnToDesignPatterns: Lär dig att designa mönster TODO
+letterPdf: PDF i letter-format TODO
+loadingModelData: Laddar modelldata TODO
+loadingResult: Laddar resultat TODO
+locale: Språk TODO
+localeUpdated: Språkval uppdaterat TODO
+logIn: Logga in TODO
+logInAs: Logga in som TODO
+logOut: Logga ut TODO
+logOutAs: 'Logga ut som {user} TODO'
+loginFailed: Inloggning misslyckades TODO
+makeItBetter: Förbättra TODO
 markdownSyntax: MarkDown syntax TODO
-measurementUpdated: Measurement updated TODO
-measurements: Measurements TODO
-measurementsRequiredForPattern: 'Measurements required for {pattern} TODO'
-messages: Messages TODO
-metric: Metric TODO
-metricUnits: Metric units (cm) TODO
-model: Model TODO
-modelIsModel: 'Model is {model} TODO'
-models: Models TODO
-monthsAgo: '{months} months ago TODO'
-name: Name TODO
-nameOfTheModel: Name of the model TODO
-nameUpdated: Name updated TODO
-newDraft: New draft TODO
-newModel: New model TODO
-newPassword: New password TODO
-newPatternDraft: 'New {pattern} draft TODO'
-newTaskForUser: 'New task for {user} TODO'
-'no': No TODO
-noChanges: No changes TODO
-noDraftsFound: No drafts found TODO
-noFilter: No filter TODO
-noIDoNot: 'No, I do not TODO'
-noIDoNotObject: 'No, I do not object TODO'
-notShared: Not shared TODO
-notes: Notes TODO
-ohNo: Oh no! TODO
-okThatsDone: 'OK, that''s done TODO'
-onlySelectedPatternParts: Only selected pattern parts TODO
-pageNotFound: The page you are looking for is nowhere to be found. TODO
-paperlessTheme: Paperless theme TODO
-password: Password TODO
-passwordResetPending: Password reset pending. TODO
-passwordUpdated: Password changed TODO
-patronText: '{username} is a {patronTier} since {daysAgo} TODO'
-patrons: Patrons TODO
-pattern: Pattern TODO
-patternDesignTutorial: Pattern design tutorial TODO
-patternDocumentation: Pattern instructions TODO
-patternInstructions: Pattern instructions TODO
-patternIsPattern: 'Pattern is {pattern} TODO'
-patternLineDrawing: '{pattern} line drawing TODO'
-patternOptions: Pattern options TODO
-patternParts: Pattern parts TODO
-patterns: Patterns TODO
-pleaseCheckYourInbox: You will be receiving an E-mail with further instructions TODO
-pleaseUpgradeThisDraft: Please upgrade this draft. TODO
-postComment: Post comment TODO
-postInfo: Post info TODO
-postReply: Post reply TODO
-preferences: Preferences TODO
-privacy: Privacy TODO
-privacyNotice: Privacy notice TODO
-processingDraftOptions: Processing draft options TODO
-profile: Profile TODO
-quickPick: Quick pick TODO
-quote-allie: Have you heard of freesewing.org? It’s pretty much the greatest thing ever! TODO
-quote-allie-about: Author of sewing blog The Aspiring Seamstress. TODO
-quote-ivan: Kudos to @j__st for creating @freesewing_org an open source platform for made-to-measure sewing patterns and general awesomeness TODO
-quote-ivan-about: Kubernetes London Meetup co-organiser. Founder of Kube.camp TODO
-quote-jamie: 'With Freesewing, sewing has moved into the 21st century TODO'
-quote-jamie-about: Author of the popular sewing blog Male Devon Sewing and 2016 Great British Sewing Bee contestant. TODO
-reSendActivationEmail: Re-send activation email TODO
-readyToTryFreesewing: Ready to try Freesewing? TODO
-redraft: Redraft TODO
-redraftDraftHandle: 'Redraft draft {handle} TODO'
-reference: Reference TODO
-removeAllMyData: Remove all my data TODO
-removeAllMyModelData: Remove all my model data TODO
-replay: Replay TODO
-reply: Reply TODO
-requiredMeasurements: Required measurements TODO
-resetPassword: Reset password TODO
-result: Result TODO
-retrievingDraftFromCore: Retrieving draft from core TODO
-revokeConsent: Revoke consent TODO
-rowsFromToOfTotal: 'Rows {from} to {to} of {total} TODO'
-rowsPerPage: Rows per page TODO
-save: Save TODO
-scope: Scope TODO
-seamAllowance: Seam allowance TODO
-search: Search TODO
-seeAlso: See also TODO
-seeBelow: See below TODO
-selectADifferentImage: Select a different image TODO
-selectAnImage: Select an image TODO
-selectThePartsYouWantIncludedInYourDraft: Select the parts you want included in your draft TODO
-settings: Settings TODO
-sewingPatternsForNonAveragePeople: Sewing patterns for non-average people TODO
-share: Share TODO
-shared: Shared TODO
-sharedUpdated: Shared setting updated TODO
-showHelp: Show help TODO
-showcase: Showcase TODO
-showcaseInfo: Showcase info TODO
-signUp: Sign up TODO
-signUpForAFreeAccount: Sign up for a free account TODO
-signingUpOnlyTakesAMinute: Signing up only takes a minute TODO
-signup--text: This should not happen. Please help us out by creating an issue on GitHub TODO
-signup--title: An unknown error occured TODO
-signup-invalid_input-text: 'Please enter a valid email address, and a password TODO'
-signup-invalid_input-title: Invalid input TODO
-signup-no_such_pending_confirmation-text: 'Sorry, but that is not a confirmation code we have on record? Perhaps it expired, in which case you can just sign up again. TODO'
-signup-no_such_pending_confirmation-title: There's no such pending confirmation TODO
-signup-signup_pending-text: We already have a pending activation for this email address. We have sent you a fresh copy of the activation email in case you missed the original one. TODO
-signup-signup_pending-title: Your signup is pending activation TODO
-signup-success-text: 'We''ve sent you an email at {email}. TODO'
-signup-user_exists-text: We already have a user with that email address. Perhaps you'd like to login instead? TODO
-signup-user_exists-title: That user exists TODO
+measurementUpdated: Mått uppdaterade TODO
+measurements: Mått TODO
+measurementsRequiredForPattern: 'Mått som behövs för {pattern} TODO'
+messages: Meddelanden TODO
+metric: Metrisk TODO
+metricUnits: Metriska mått (cm) TODO
+model: Modell TODO
+modelIsModel: 'Modellen är {model} TODO'
+models: Modeller TODO
+monthsAgo: '{months} månader sedan TODO'
+name: Namn TODO
+nameOfTheModel: Modellens namn TODO
+nameUpdated: Namn uppdaterat TODO
+newDraft: Ny skiss TODO
+newModel: Ny modell TODO
+newPassword: Nytt lösenord TODO
+newPatternDraft: 'Ny {pattern} -skiss TODO'
+newTaskForUser: 'Ny uppgift för {user} TODO'
+'no': Inga TODO
+noChanges: Inga ändringar TODO
+noDraftsFound: Inga skisser hittades TODO
+noFilter: Inga filter TODO
+noIDoNot: 'Nej, jag gör inte TODO'
+noIDoNotObject: 'Nej, jag har inga invändningar TODO'
+notShared: Inte delad TODO
+notes: Anteckningar TODO
+ohNo: Åh nej! TODO
+okThatsDone: 'Ok, det är klart TODO'
+onlySelectedPatternParts: bara valda mönsterdelar TODO
+pageNotFound: Sidan du letar efter kan inte hittas. TODO
+paperlessTheme: Papperslöst tema TODO
+password: Lösenord TODO
+passwordResetPending: Lösenordsåterställning väntar. TODO
+passwordUpdated: Lösenord uppdaterat TODO
+patronText: '{username} är en {patronTier} sedan {daysAgo} TODO'
+patrons: Srödmedlemmar TODO
+pattern: Mönster TODO
+patternDesignTutorial: Mönsterdesign, handledning TODO
+patternDocumentation: Mönsterdokumentation TODO
+patternInstructions: Mönsterinstruktioner TODO
+patternIsPattern: 'Mönstret är {pattern} TODO'
+patternLineDrawing: '{pattern} streckteckning TODO'
+patternOptions: Mönsteralternativ TODO
+patternParts: Mönsterdelar TODO
+patterns: Mönster TODO
+pleaseCheckYourInbox: Du kommer att få e-post med vidare instruktioner TODO
+pleaseUpgradeThisDraft: Vänligen uppgradera denna skiss. TODO
+postComment: Publicera kommentar TODO
+postInfo: Publicera information TODO
+postReply: Publicera svar TODO
+preferences: Inställningar TODO
+privacy: Integritet TODO
+privacyNotice: Integritetsmeddelande TODO
+processingDraftOptions: Bearbetar skiss-alternativ TODO
+profile: Profil TODO
+quickPick: Snabb bild TODO
+quote-allie: Har du hört talas om freesewing.org? Det är i princip det bästa som har hänt! TODO
+quote-allie-about: Författare till sömnadsbloggen The Aspiring Seamstress. TODO
+quote-ivan: Heder till @j__st för att ha skapat @freesewing_org, en open source-plattform för måttanpassade sömnadsmönster, och för allmän förträfflighet TODO
+quote-ivan-about: Medarrangör till Kubernetes London Meetup. Grundare av Kube.camp TODO
+quote-jamie: 'Med Freesewing, har sömnad förflyttats till 2000-talet TODO'
+quote-jamie-about: Författare till den populära sömnadsbloggen Male Devon Sewing och tävlande i Great British Sewing Bee 2016. TODO
+reSendActivationEmail: Skicka aktiverings-e-post igen TODO
+readyToTryFreesewing: Redo att testa Freesewing? TODO
+redraft: Eita om TODO
+redraftDraftHandle: 'Rita om skiss {handle} TODO'
+reference: Referens TODO
+removeAllMyData: Radera alla mina uppgifter TODO
+removeAllMyModelData: Radera alla mina modell-uppgifter TODO
+replay: Repris TODO
+reply: Svara TODO
+requiredMeasurements: Mått som behövs TODO
+resetPassword: återställ lösenord TODO
+result: Resultat TODO
+retrievingDraftFromCore: Hämtar skiss från grunden TODO
+revokeConsent: Återkalla samtycke TODO
+rowsFromToOfTotal: 'Rader {from} till {to} av {total} TODO'
+rowsPerPage: Rader per sida TODO
+save: Spara TODO
+scope: Omfattning TODO
+seamAllowance: Sömsmån TODO
+search: Sök TODO
+seeAlso: Se också TODO
+seeBelow: Se nedan TODO
+selectADifferentImage: Välj en annan bild TODO
+selectAnImage: Välj en bild TODO
+selectThePartsYouWantIncludedInYourDraft: Välj de delar du vill ha med i din skiss TODO
+settings: Inställningar TODO
+sewingPatternsForNonAveragePeople: Sömnadsmönster för icke genomsnittliga personer TODO
+share: Dela TODO
+shared: Delad TODO
+sharedUpdated: Delad inställning uppdaterad TODO
+showHelp: Visa hjälp TODO
+showcase: Visa upp TODO
+showcaseInfo: Information om att visa upp TODO
+signUp: Registrera dig TODO
+signUpForAFreeAccount: Registrera dig för ett gratis konto TODO
+signingUpOnlyTakesAMinute: Registreringen tar bara en minut TODO
+signup--text: Det här borde inte hända. Hjälp oss gärna att rätta till det genom att skapa ett inlägg på GitHub TODO
+signup--title: Ett okänt fel inträffade TODO
+signup-invalid_input-text: 'Vänligen ange en giltig e-postadress och ett lösenord TODO'
+signup-invalid_input-title: Ogiltig inmatning TODO
+signup-no_such_pending_confirmation-text: 'Tyvärr, vi har ingen sådan bekräftelsekod registrerad. Kanske har den gått ut, i så fall kan du bara regitrera dig igen. TODO'
+signup-no_such_pending_confirmation-title: Det finns ingen sådan bekräftelse som väntar TODO
+signup-signup_pending-text: Vi väntar redan på aktivering av den här e-postadressen. Vi har skickat dig en ny kopia av aktiveringsmeddelandet om du inte hittar originalet. TODO
+signup-signup_pending-title: Din registrering väntar på att aktiveras TODO
+signup-success-text: 'Vi har skickat e-post till dig på {email}. TODO'
+signup-user_exists-text: Vi har redan en användare med den här e-postadressen. Kanske vill du logga in istället? TODO
+signup-user_exists-title: Den användaren existerar TODO
 social: Social TODO
-somethingWentWrong: Something went wrong TODO
-startUpload: Start upload TODO
+somethingWentWrong: Någonting gick fel TODO
+startUpload: Börja ladda upp TODO
 status: Status TODO
-statusTranslationLanguage: 'Status translation {language} TODO'
-step1: Step 1 TODO
-step2: Step 2 TODO
-step3: Step 3 TODO
-step4: Step 4 TODO
-stopProcessingMyData: Stop processing my data TODO
-stopUpload: Stop upload TODO
-storingDraftData: Storing draft data TODO
-strikethrough: Strikethrough TODO
-svgSourceCode: SVG Source code TODO
-tabloidPdf: Tabloid PDF TODO
-taskCompleted: Task completed TODO
-theme: Theme TODO
-themeUpdated: Layout preference set TODO
-thereIsNoWayBackFromThis: There is no way back from this. TODO
-thisContentIsNotAvailableInLanguage: This content is not available in English. TODO
-thisDraftPredatesThisFeature: This draft predates this feature. TODO
-thisIsTheCurrentStatusOfOurTranslations: This is the current status of our translations. TODO
-thisPageIsNotIntendedForLoggedInUsers: This page is not intended for logged-in users TODO
-thisPageIsOnlyAvailableToFreesewingUsers: This page is only available to Freesewing users TODO
-tip: Tip TODO
-title: Title TODO
-today: Today TODO
-translationTeam: Translation team TODO
-troubleLoggingIn: Trouble logging in? TODO
-tryAgain: Try again TODO
+statusTranslationLanguage: 'Status översättning {language} TODO'
+step1: Steg 1 TODO
+step2: Steg 2 TODO
+step3: Steg 3 TODO
+step4: Steg 4 TODO
+stopProcessingMyData: Sluta bearbeta mina data TODO
+stopUpload: Avbryt uppladdning TODO
+storingDraftData: Sparar skiss-data TODO
+strikethrough: Genomstruken TODO
+svgSourceCode: SVG-källkod TODO
+tabloidPdf: Tabloid-PDF TODO
+taskCompleted: Uppgift slutförd TODO
+theme: Tema TODO
+themeUpdated: Layout-inställningar TODO
+thereIsNoWayBackFromThis: Det finns ingen väg tillbaka från det här. TODO
+thisContentIsNotAvailableInLanguage: Det här innehållet finns inte tillgängligt på engelska. TODO
+thisDraftPredatesThisFeature: Den här skissen föregår den här funktionen. TODO
+thisIsTheCurrentStatusOfOurTranslations: Det här är nuvarande status för våra översättningar. TODO
+thisPageIsNotIntendedForLoggedInUsers: Den här idan är inte avsedd för inloggade användare TODO
+thisPageIsOnlyAvailableToFreesewingUsers: Den här sidan är bara tillgänglig för Freesewing-användar TODO
+tip: Tips TODO
+title: Titel TODO
+today: I dag TODO
+translationTeam: Översättningsteam TODO
+troubleLoggingIn: Problem med att logga in? TODO
+tryAgain: Försök igen TODO
 twitter: Twitter TODO
-twitterUpdated: Twitter account set TODO
-txt-avatarDropzoneText: 'Drag and drop an image here, or click the button to pick one from your files. TODO'
-txt-avatarDropzoneTitle: Drop your image here TODO
-txt-breastMeasurement-text: This is one of those measurements that is only relevant if your model has breasts. TODO
-txt-breastMeasurement-title: This measurement is only relevant for breasts TODO
-txt-changeRequiresConfirmation: This change requires confirmation via E-mail TODO
-txt-clickEmailLink: Please click the link in the email to continue. TODO
+twitterUpdated: Twitter-konto uppdaterat TODO
+txt-avatarDropzoneText: 'Dra och släpp en bild här, eller klicka på knappen för att välja en bland dina filer. TODO'
+txt-avatarDropzoneTitle: Släpp din bild här TODO
+txt-breastMeasurement-text: Det här är ett mått som bara är relevant om din modell har bröst. TODO
+txt-breastMeasurement-title: Detta mått är bara relevant för bröst TODO
+txt-changeRequiresConfirmation: Den här förändringen kräver bekräftelse via E-post TODO
+txt-clickEmailLink: Vänligen klicka på länken i e-postmeddelandet för att fortsätta. TODO
 txt-consentModel: Do you give your consent to process your model data? TODO
 txt-consentModelAnswerWhat: 'For each model their <b>measurements</b>, <b>breasts settings</b>, and <b>password</b>. TODO'
 txt-consentModelAnswerWhatOptional: 'Optional: A model <b>picture</b> and the <b>name</b> that you give your model. TODO'
